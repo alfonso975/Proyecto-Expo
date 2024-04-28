@@ -1,0 +1,15 @@
+{
+  "name": "alfonsolopezcruz_eliasabiramtorresvazquez",
+  "version": "1.0.0",
+  "main": "conexionSql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "tedious": "^16.6.1"
+  },
+  "description": ""
+}
